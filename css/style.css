@@ -748,7 +748,8 @@ form { display: grid; gap: 18px; }
 @media (max-width: 540px) {
   .site-header { padding: 14px 20px; }
   .container { padding: 0 20px; }
-  .cta-band::before, .cta-band::after { display: none; }
+  .cta-band::before { width: 150px; height: 150px; top: -18px; left: -22px; }
+  .cta-band::after { width: 180px; height: 180px; bottom: -28px; right: -28px; }
   .gallery { grid-template-columns: repeat(2, 1fr); }
   .arc-item { width: 38vw; }
   .section-pad { padding: 70px 0; }
