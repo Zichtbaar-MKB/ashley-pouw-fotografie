@@ -1,6 +1,6 @@
-# Ashley Pouw Fotografie
+# Ashley Pouw Photography
 
-Statische website voor Ashley Pouw Fotografie (Zutphen) — warme, liefdevolle lifestyle- en portretfotografie.
+Statische website voor Ashley Pouw Photography (Zutphen) — warme, liefdevolle lifestyle- en portretfotografie.
 
 7 pagina's: Home, Fotoshoots (overzicht), Familieshoots, Kindershoot, Zwangerschapsshoot, Portfolio en Contact.
 
